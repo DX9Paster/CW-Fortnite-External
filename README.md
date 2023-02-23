@@ -1,11 +1,10 @@
 # CatWare Lite
-**Leaked because i left the comunity** <br>
-**Cleckzy is a scammer, And i don't associate with scammers.** <br>
+**Leaked because i left the community <br>
+Cleckzy is a scammer, And i don't associate with scammers. <br>
 Status: Outdated <br>
-Note. Driver is removed <br> <br>
+Note. Driver is removed** <br> <br>
 
 **Cheat Features.**
-
 
 **Aimbot**
 - Mouse Aimbot
