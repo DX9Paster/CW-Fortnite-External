@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="dependencies">
+      <UniqueIdentifier>{beff8c4a-8433-4117-981a-6e4f826d2d73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dependencies\ImGui">
+      <UniqueIdentifier>{bfabe7b9-e10a-4b07-8373-467e7315a6fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dependencies\ImGui\cpp">
+      <UniqueIdentifier>{756b91d8-6b0d-44ae-9c89-9e14c45cc805}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dependencies\ImGui\header">
+      <UniqueIdentifier>{bb13a1b2-8354-4d32-b88f-05e6628124d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cpp">
+      <UniqueIdentifier>{3d44099f-a683-4bf6-8f80-3b7f96eb877f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="header">
+      <UniqueIdentifier>{c1a5ea0d-c2bc-4f65-ac86-97852e47093c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dependencies\Controller">
+      <UniqueIdentifier>{6f194833-499a-4a09-9f6a-31145701a0a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="overlay">
+      <UniqueIdentifier>{0e46d0bf-3e52-41b6-9410-0ca93176662e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="overlay\cpp">
+      <UniqueIdentifier>{07b1018f-9445-4a89-9350-e3078c80c47a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="overlay\header">
+      <UniqueIdentifier>{54af0298-31c2-49f9-b6e8-c2db4ea9cf84}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="common.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="dependencies\Controller\driver.h">
+      <Filter>dependencies\Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="overlay.hpp">
+      <Filter>overlay\header</Filter>
+    </ClInclude>
+    <ClInclude Include="font.h">
+      <Filter>overlay\header</Filter>
+    </ClInclude>
+    <ClInclude Include="options.h">
+      <Filter>overlay\header</Filter>
+    </ClInclude>
+    <ClInclude Include="FortniteSDK.h">
+      <Filter>overlay\header</Filter>
+    </ClInclude>
+    <ClInclude Include="structs.h">
+      <Filter>overlay\header</Filter>
+    </ClInclude>
+    <ClInclude Include="dependencies\ImGui\imconfig.h">
+      <Filter>dependencies\ImGui\header</Filter>
+    </ClInclude>
+    <ClInclude Include="dependencies\ImGui\imgui.h">
+      <Filter>dependencies\ImGui\header</Filter>
+    </ClInclude>
+    <ClInclude Include="dependencies\ImGui\imgui_impl_dx9.h">
+      <Filter>dependencies\ImGui\header</Filter>
+    </ClInclude>
+    <ClInclude Include="dependencies\ImGui\imgui_impl_win32.h">
+      <Filter>dependencies\ImGui\header</Filter>
+    </ClInclude>
+    <ClInclude Include="dependencies\ImGui\imgui_internal.h">
+      <Filter>dependencies\ImGui\header</Filter>
+    </ClInclude>
+    <ClInclude Include="dependencies\ImGui\imstb_rectpack.h">
+      <Filter>dependencies\ImGui\header</Filter>
+    </ClInclude>
+    <ClInclude Include="dependencies\ImGui\imstb_textedit.h">
+      <Filter>dependencies\ImGui\header</Filter>
+    </ClInclude>
+    <ClInclude Include="dependencies\ImGui\imstb_truetype.h">
+      <Filter>dependencies\ImGui\header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="entry.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="dependencies\ImGui\imgui.cpp">
+      <Filter>dependencies\ImGui\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="dependencies\ImGui\imgui_demo.cpp">
+      <Filter>dependencies\ImGui\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="dependencies\ImGui\imgui_draw.cpp">
+      <Filter>dependencies\ImGui\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="dependencies\ImGui\imgui_impl_dx9.cpp">
+      <Filter>dependencies\ImGui\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="dependencies\ImGui\imgui_impl_win32.cpp">
+      <Filter>dependencies\ImGui\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="dependencies\ImGui\imgui_tables.cpp">
+      <Filter>dependencies\ImGui\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="dependencies\ImGui\imgui_widgets.cpp">
+      <Filter>dependencies\ImGui\cpp</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
