@@ -1,34 +1,33 @@
-# CatWare-External-Leak
-**Leaked because i left the communtiy** <br>
+# CatWare Lite
+**Leaked because i left the comunity** <br>
 **Cleckzy is a scammer, And i don't associate with scammers.**
 
-Status: Outdated <br>
-Note. Driver is removed
+![image](https://user-images.githubusercontent.com/104642778/221056627-80f01e84-a3c7-4b35-a2ae-cdf07ddb4ed4.png)
 
-**Cheat Features**
+Status: Outdated <br>
+Note. Driver is removed <br>
+
+**Cheat**
 
 **Aimbot**
 - Mouse Aimbot
-- Skip Knocked Players
-- Bone Target 
+- Silent Aimbot
 - Smoothness
 - Max Distance
 
 **Visuals**
-- 3D Bounding Box
+- Box
+- 3D Box
 - Corner Box
-- Basic Box
 - Snaplines
 - Skeletons
+- Bot Check
 - Distance
-- Current Eqipped Weapon (Ammo Count, Reloading Check)
-- Platform (in progress)
 - Max Distance
 
 **Misc**
-- Draw Crosshair
-- Draw Circle FOV
-- Aimbot FOV Value
+- Crosshair
+- FieldOfView
 
 **World**
 - Loots
@@ -37,11 +36,3 @@ Note. Driver is removed
 - Chests
 - Ammo Boxes
 - Max Distance
-
-**Exploits**
-- No Bloom
-- Spinbot
-- Boat Fly
-- Boat Speed Multiplier
-- Boat Speed
-- FOV Changer
