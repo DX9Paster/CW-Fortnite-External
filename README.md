@@ -1,19 +1,19 @@
 # CatWare Lite
-**Leaked because i left the community <br>
+Leaked because i left the community. <br>
 Cleckzy is a scammer, And i don't associate with scammers. <br>
 Status: Outdated <br>
-Note. Driver is removed** <br> <br>
+Note. Driver is removed <br> <br>
 
 **Cheat Features.**
 
 **Aimbot**
 - Mouse Aimbot
-- Silent Aimbot
+- SilentAim
 - Smoothness
 - Max Distance
 
 **Visuals**
-- Box
+- 2D Box
 - 3D Box
 - Corner Box
 - Snaplines
@@ -21,10 +21,6 @@ Note. Driver is removed** <br> <br>
 - Bot Check
 - Distance
 - Max Distance
-
-**Misc**
-- Crosshair
-- FieldOfView
 
 **World**
 - Loots
