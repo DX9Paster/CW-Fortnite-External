@@ -1,4 +1,4 @@
-# CatWare Lite
+# CW Legit External
 Leaked because i left the community. <br>
 Cleckzy is a scammer, And i don't associate with scammers. <br>
 Status: Outdated <br>
@@ -10,11 +10,11 @@ Note. Driver is removed <br> <br>
 - Mouse Aimbot
 - SilentAim
 - Smoothness
-- Max Distance
+- FieldOfView 
 
 **Visuals**
-- 2D Box
 - 3D Box
+- Basic Box
 - Corner Box
 - Snaplines
 - Skeletons
@@ -24,7 +24,6 @@ Note. Driver is removed <br> <br>
 
 **World**
 - Loots
-- Utils
 - Vehicles
 - Chests
 - Ammo Boxes
